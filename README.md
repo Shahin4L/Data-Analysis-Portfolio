@@ -67,26 +67,64 @@ Self-Motivation & Curiosity – Rapidly learned Tableau and applied it to a full
 Emotional Intelligence – Understanding stakeholder needs and presenting data in a clear, impactful, and relatable way.
 Attention to Detail – Ensuring accuracy and clarity in every visualization.
 
-**Why This Portfolio Matters**
+📦** Backlog Analytics Dashboard (Power BI)**
 
-Demonstrates my capacity to handle real-world business data and extract meaningful insights.
+A Smart Operational Dashboard for Logistics Insight
 
-Reflects my growth mindset: even as a beginner in Tableau, I have created end-to-end visual analysis and dashboards.
+Alongside my Tableau portfolio, I have also built a Backlog Analytics Dashboard using Power BI, designed to track order flow, operational bottlenecks, and business performance across multiple logistics hubs.
 
-Highlights my ability to communicate complex data visually, making insights accessible for decision-making.
+🔍** Key Features**
 
-**Next Steps**
+Order status intelligence across the entire delivery lifecycle
 
-I aim to continue enhancing my data analytics skills by exploring Python, SQL, and advanced Tableau techniques, while creating impactful visual stories that help businesses make data-driven decisions.
+Hub-wise business distribution and performance metrics
 
-**📬 Contact Me**
+Merchant-level contribution & delivery fee impact
 
-I’m always open to connect, collaborate, or discuss new opportunities. You can reach me via:
+Backlog visibility for better operational planning
 
-Email: skhudrie@gmail.com
+📊 **Dashboard Preview**
 
-Phone: +88 01772-222668
+![Shahin DATA_page-0001](https://github.com/user-attachments/assets/59dc32eb-a01c-4cfc-8a5b-3f5cc9ac5e00)
 
-LinkedIn: https://www.linkedin.com/in/shahin4l/
+**🎯 Business Value**
 
-Location: Dhaka, Bangladesh
+Helps identify delays and process bottlenecks
+
+Supports decision-makers with real-time operational visibility
+
+Reveals revenue-driving hubs & high-impact merchants
+
+Improves supply chain efficiency through actionable KPIs
+
+🚀** Why This Portfolio Matters**
+
+Demonstrates my capability to work with real business data 
+
+Showcases end-to-end BI development: cleaning → modeling → visualization
+
+Reflects my growth mindset and passion for data storytelling
+
+Highlights my ability to communicate insights to both technical and non-technical audiences
+
+🎯 **Next Steps**
+
+I plan to continue advancing my analytics expertise by exploring:
+
+Python for deeper data manipulation
+
+SQL for database querying
+
+Advanced Tableau & Power BI for complex dashboards
+
+Predictive analytics & machine learning
+
+📬 **Contact Me**
+
+📧 Email: skhudrie@gmail.com
+
+📱 Phone: +88 01772-222668
+
+🔗 LinkedIn: https://www.linkedin.com/in/shahin4l/
+
+📍 Location: Badda, Dhaka, Bangladesh
